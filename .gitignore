@@ -1,0 +1,6 @@
+.dist
+.vscode
+data
+db
+.DS_Store
+.env
